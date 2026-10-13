@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2-beta",
+  "version": "0.1.3-beta",
   "notes": "",
-  "pub_date": "2026-10-13T17:37:17.846Z",
+  "pub_date": "2026-10-13T21:34:33.418Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQ0s3REE0VWxhN1VsQmhNbkswSFdpTWN0NVZpUjJiSGd3eldYRjVGMEVaOENQeHQ3b1QyNWRLalk1TWtXRE5BaDJJSFNoajgxOStkNXM3b1ZobFl5Qkx4TlN3YWthdHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTEzMDMzCWZpbGU6Z3VlcnJhc29sdXRfMC4xLjItYmV0YV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjItYmV0YQovVkJHLzFPS20rakxxNUpQZTBhRmN4NEZvQXQ4NGZiekh5WnVhN3YzZzBpVzREbjFhVUVXVWtVQmhvVTFNN0RrdzBxemUyc1BFdXlNV3k3Wm42bGVDZz09Cg==",
-      "url": "https://api.github.com/repos/ra64-company/guerrasolut-releases/releases/assets/637769645"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQ0s3REE0VWxhN1JnL1J4cWZSdWc3L1dabzNnNFpWcURGbjQ2QTF6Tk5SVXgrWjZoZFVCaGE4UlNZdTA4dnhjRU5KMzVpb0N3QzR0YnRLbDViMlBiZ2lZUlFQQlVwV1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTI3MjcwCWZpbGU6Z3VlcnJhc29sdXRfMC4xLjMtYmV0YV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMtYmV0YQpzSHRGZW80NXBiRmtKZTkxMjdIQ3VnRUxMTzV2OTJlY2Iwdmk0Z0FXTGdqMmNCV29KQnNjVGpZSEF3MjFGQ25Fa2dPMUJEcGoxYkloU0JHc1ppRjVDQT09Cg==",
+      "url": "https://api.github.com/repos/ra64-company/guerrasolut-releases/releases/assets/638315105"
     }
   }
 }
